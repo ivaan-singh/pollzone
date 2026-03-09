@@ -1,4 +1,4 @@
-# PollZone 🔥
+# PollZone 
 
 A fun interactive polling website with real vote counts stored in a database.
 
